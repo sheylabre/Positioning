@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.div1 {
+    background: #ee3e64;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.div2 {
+    background: #44accf;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    z-index
+}
+.div3 {
+    background: #b7d84b;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 20px;
+    bottom: 30px
+}

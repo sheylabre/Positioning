@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.div1 {
+    background: #ee3e64;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.div2 {
+    background: #44accf;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    top: 420px;
+}
+.div3 {
+    background: #b7d84b;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 600px;
+    bottom: 0px;
+    top: 0px;
+}
+.div4 {
+    background: #FFFF00;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 600px;
+    bottom: 0px;
+    top: 425px;
+}

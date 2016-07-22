@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.div1 {
+    background: #ee3e64;
+    width: 200px;
+    height: 200px;
+    position: static;
+}
+.div2 {
+    background: #44accf;
+    width: 200px;
+    height: 200px;
+    position: static;
+}
+.div3 {
+    background: #b7d84b;
+    width: 200px;
+    height: 200px;
+    position: static;
+}
